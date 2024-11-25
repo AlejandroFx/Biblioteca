@@ -2,21 +2,21 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="BibliotecaBackend/Dockerfile">
     <Files>
-      <File FileName="BibliotecaBackend/Models/Libro.cs" Line="1" Column="1" />
+      <File FileName="BibliotecaBackend/Models/Libro.cs" />
       <File FileName="BibliotecaBackend/Controllers/LibroController.cs" />
-      <File FileName="BibliotecaBackend/Program.cs" Line="17" Column="27" />
-      <File FileName="BibliotecaBackend/Dockerfile" Line="10" Column="8" />
+      <File FileName="BibliotecaBackend/Program.cs" />
+      <File FileName="BibliotecaBackend/Dockerfile" Line="27" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BibliotecaBackend" expanded="True">
-            <Node name="Solution Items" expanded="True" />
-            <Node name="BibliotecaBackend" expanded="True" selected="True">
+            <Node name="BibliotecaBackend" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="Models" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
             </Node>
           </Node>
         </State>
