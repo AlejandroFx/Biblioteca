@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{628D77B8-58D4-4CE9-8089-0B739A2F2D71}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BibliotecaBackend/Dockerfile">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BibliotecaBackend/appsettings.json">
     <Files>
       <File FileName="BibliotecaBackend/Models/Libro.cs" />
       <File FileName="BibliotecaBackend/Controllers/LibroController.cs" />
       <File FileName="BibliotecaBackend/Program.cs" />
       <File FileName="BibliotecaBackend/Dockerfile" Line="27" Column="1" />
+      <File FileName="BibliotecaBackend/appsettings.json" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BibliotecaBackend" expanded="True">
-            <Node name="BibliotecaBackend" expanded="True">
+            <Node name="BibliotecaBackend" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Dockerfile" selected="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
